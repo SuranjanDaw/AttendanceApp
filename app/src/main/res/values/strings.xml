@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="subject">Subject Name</string>
+    <string name="hmts">HMTS2001</string>
+    <string name="phy">PHYS2001</string>
+    <string name="math">MATH2002</string>
+    <string name="chem">CHEM2001</string>
+    <string name="csen">CSEN2001</string>
+    <string name="info">INFO2101</string>
+    <string name="info2">INFO2102</string>
+    <string name="mathLab">MATH2012</string>
+    <string name="phyLab">PHYS2011</string>
+    <string name="csenLab">CSEN2011</string>
+    <string name="infoLab">INFO2112</string>
+</resources>
